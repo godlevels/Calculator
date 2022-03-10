@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
+.btn {
+    @apply hover:bg-rose-300 rounded-lg ease-in-out duration-300
+}
